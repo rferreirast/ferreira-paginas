@@ -32,7 +32,7 @@ Trabalhe como se o site fosse concorrer a um prêmio de design. Pergunte sempre:
 
 ### 1.2 Qual modelo de IA usar
 
-A qualidade depende muito do modelo. Para criar ou redesenhar um site, use o modelo mais forte disponível, com o raciocínio no nível mais alto. Modelos leves servem para ajustes pequenos (trocar texto, cor, link). Se você é um modelo leve e recebeu um site inteiro para criar, avise o usuário de que o resultado tende a sair mais simples.
+Quem escolhe o modelo e o nível de raciocínio é o usuário. Nunca troque de modelo por conta própria nem condicione o trabalho a isso. Se você estiver num modelo leve ou com raciocínio baixo e o pedido for criar ou redesenhar um site inteiro, faça o trabalho normalmente e, no máximo, deixe um aviso curto: aumentar o raciocínio ou usar um modelo mais forte costuma melhorar o resultado.
 
 ---
 
@@ -343,7 +343,7 @@ A melhor animação mostra uma ideia do negócio. Antes de animar, pergunte: "o 
 - **A estrutura "não é X, é Y"** e variações: "não é sobre X, é sobre Y", "mais do que X, Y", "não vendemos X, entregamos Y", "não se trata de".
 - **Frase de efeito no fim de parágrafo** ("E isso muda tudo." "Simples assim.").
 - **Sequência de frases curtíssimas** para criar drama ("Rápido. Seguro. Feito para você.").
-- **Título em duas partes com a segunda colorida** como fórmula repetida em todas as seções ("Bonito de ver. Fácil de usar."). Pode acontecer uma vez, se tiver motivo.
+- **A fórmula de título em duas frases curtas de efeito** repetida em todas as seções ("Bonito de ver. Fácil de usar.", "Rápido no celular. Claro na mensagem."). O problema é o texto montado como bordão, não a cor: destacar com outra cor uma palavra ou parte do título é um recurso válido de design, quando realça a ideia principal e não vira padrão em todo título.
 - **Listas de três adjetivos**, **pergunta retórica abrindo seção**, **emoji**, **dois-pontos dramático** e mais de uma **exclamação** no site.
 
 ### 10.2 Palavras e expressões proibidas

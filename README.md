@@ -48,7 +48,7 @@ Atualize o manual: baixe https://raw.githubusercontent.com/rferreirast/ferreira-
 
 ## Qual modelo usar
 
-Para criar ou redesenhar sites, use o modelo mais forte que você tiver, com o raciocínio no nível mais alto. Modelos leves servem para ajustes pequenos.
+Você escolhe. O manual funciona em qualquer modelo; para criar ou redesenhar um site inteiro, um modelo mais forte ou um nível de raciocínio maior costuma dar um resultado melhor.
 
 ## Depois de instalado
 
