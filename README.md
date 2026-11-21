@@ -38,6 +38,18 @@ Baixe o arquivo https://raw.githubusercontent.com/rferreirast/ferreira-paginas/m
 
 Se a sua IA não tiver acesso à internet (acontece no Codex), abra o [`AGENTS.md`](AGENTS.md), clique em "Copy raw file" e cole o conteúdo inteiro na conversa. O próprio arquivo explica para a IA o que fazer com ele.
 
+## Atualizar para a versão mais nova
+
+O arquivo na sua pasta não se atualiza sozinho. Quando houver versão nova, peça à sua IA:
+
+```
+Atualize o manual: baixe https://raw.githubusercontent.com/rferreirast/ferreira-paginas/main/AGENTS.md e substitua o AGENTS.md desta pasta. Não mexa em framework/ nem em projetos/. Depois leia o manual novo e me diga em poucas linhas o que mudou.
+```
+
+## Qual modelo usar
+
+Para criar ou redesenhar sites, use o modelo mais forte que você tiver, com o raciocínio no nível mais alto. Modelos leves servem para ajustes pequenos.
+
 ## Depois de instalado
 
 - **Site novo:** "Quero um site para a Dra. Paula, nutricionista esportiva em Campinas. Instagram: @..."
